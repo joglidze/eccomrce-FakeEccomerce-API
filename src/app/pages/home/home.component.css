@@ -1,0 +1,16 @@
+.mat-drawer {
+  position: relative !important;
+  display: flex !important;
+  width: 15rem;
+  margin-right: 20px;
+}
+
+.mat-drawer-container {
+  display: flex !important;
+  
+}
+.mat-drawer-content {
+  height: 100%;
+  overflow: auto;
+  width: 100%;
+}
